@@ -15,6 +15,7 @@
     "@mui/icons-material": "^6.4.0",
     "@mui/material": "^6.4.0",
     "@reduxjs/toolkit": "^2.6.1",
+    "@tailwindcss/vite": "^4.1.13",
     "axios": "^1.7.9",
     "caniuse-lite": "^1.0.30001722",
     "clsx": "^2.1.1",

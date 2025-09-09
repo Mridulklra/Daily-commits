@@ -1,6 +1,6 @@
 // import React from "react";
 import clsx from "clsx";
-import type { ReactElement } from "react";
+import { type  ReactElement } from "react";
 
 interface InputProps {
   // onChange?: (e: React.ChangeEvent<HTMLInputElement>) => void;

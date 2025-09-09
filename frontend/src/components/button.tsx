@@ -1,5 +1,5 @@
 import clsx from "clsx";
-import type { ReactElement } from "react";
+import { type ReactElement } from "react";
 
 interface ButtonProps {
   variant: "primary" | "secondary" | "round" | "roundchips" | "new" | "load" | "drop" |"danger";
